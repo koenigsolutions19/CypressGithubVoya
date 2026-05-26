@@ -1,5 +1,5 @@
-describe('Redimmail-Checkbox', () => {
-  it('Handling Checkbox', () => {
-    console.log('Testing Checkbox')
+describe('Redimmail-Editbox', () => {
+  it('Handling Editbox', () => {
+    console.log('Testing Editbox')
   })
 })
